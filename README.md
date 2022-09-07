@@ -22,9 +22,17 @@ Hyderabad Airport&nbsp; (Rajiv Gandhi International Airport.)<br>
 
 India is famous for its incredible culture, tasty cuisine, scenic beauty and heritage sites. We show you the most beautiful cities countrywide with stunning urban landscapes, and a thriving cultural scene which you should visit.
 
-| Name of a city | Important location to visit | amount of time to spend visiting |
+| Name of a city | Important location to visit | Amount of time to spend visiting |
 --- | --- | --- |
 | Jaipur | Hawa Mahal | 2 Hours |
 | New Delhi | The India Gate | 3 Hours |
 | Hyderabad | Charminar | 5 Hours |
 | Mumbai | Marine Drive | 4 Hours |
+
+---
+# Quotes
+> “We cannot solve problems with the kind of thinking we employed when we came up with them.” 
+>> *Albert Einstein*
+
+> “I never dreamed about success. I worked for it.”
+>> *Estée Lauder*
