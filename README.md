@@ -36,3 +36,21 @@ India is famous for its incredible culture, tasty cuisine, scenic beauty and her
 
 > “I never dreamed about success. I worked for it.”
 >> *Estée Lauder*
+
+---
+# Code Fencing
+> Strip HTML Tags in JavaScript
+>> https://stackoverflow.com/questions/822452/strip-html-from-text-javascript/
+``` css
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);
+```
+
+***[Link to the above snippet code](https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/)***
